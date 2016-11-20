@@ -1,3 +1,3 @@
 # testbranch
-A learning process AND testing.
+A learning process and testing.
 
